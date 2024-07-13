@@ -8,8 +8,8 @@ The desired outcome is a prototype of a macro analysis tool that can effectively
 ### 🧠 AI Companion
 Direct ChatGPT interactions in your Excel for real-time intelligent responses!
 
-### 🐼 Pandas DataFrame Creator
-One-click Excel range conversion to Pandas DataFrames or Jupyter Notebooks, setting your Python analyses in motion!
+### 🚀 Create Xlwings Templates
+One-click Excel range conversion to create Xlwings Templates analyses in motion!
 
 ### 🎨 Ultimate Color Control
 Lighten or darken cell & shape colors, change border colors, and imbue your spreadsheets with a professional aesthetic.
