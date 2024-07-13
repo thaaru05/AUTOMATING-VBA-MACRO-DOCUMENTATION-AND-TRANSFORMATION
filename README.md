@@ -14,8 +14,8 @@ One-click Excel range conversion to create Xlwings Templates analyses in motion!
 ### 🎨 Ultimate Color Control
 Lighten or darken cell & shape colors, change border colors, and imbue your spreadsheets with a professional aesthetic.
 
-### ✅ Tickmarks & Highlights
-Seamlessly insert tickmarks, add highlight-boxes of varied colors, and embed images in comments, ensuring your data is visually compelling and contextually enriched!
+### ✅ Tickmarks & 
+Seamlessly insert tickmarks ensuring your data is visually compelling and contextually enriched!
 
 ## Setup Instructions
 
